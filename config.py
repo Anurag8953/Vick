@@ -6,7 +6,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", 27353035))
 API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
-BOT_TOKEN = getenv("BOT_TOKEN", "6949391904:AAEjKRW9uxkCRc3CUS7RXW73SnuMIHOUV3k")
+BOT_TOKEN = getenv("BOT_TOKEN", "6420240984:AAHxMqND50zWz6soYLAyUIxYXj-jvUy43fI")
 OWNER_ID = int(getenv("OWNER_ID", "5111294407"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/hyperxfellings")
